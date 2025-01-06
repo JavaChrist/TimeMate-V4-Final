@@ -16,7 +16,7 @@ TimeMate est une application web permettant de gérer et suivre le temps passé 
 
 1. Clonez le repository
 bash
-git clone https://github.com/votre-username/timemate.git
+git clone https://github.com/JavaChrist/TimeMate-V4-Final.git
 cd timemate
 
 2. Configuration Firebase
@@ -94,6 +94,6 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## Contact
 Votre Nom - [@javachrist](https://twitter.com/javachrist)
-Lien du projet: [https://github.com/javachrist/timemate](https://github.com/javachrist/timemate)
+Lien du projet: [https://github.com/JavaChrist/TimeMate-V4-Final.git]
 
 ![alt text](assets/images/Page-activites.png)![alt text](assets/images/Ecran-accueil.png)![alt text](assets/images/Page-calendrier.png)
